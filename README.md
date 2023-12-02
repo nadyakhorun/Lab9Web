@@ -68,7 +68,10 @@ Dosen Pengampu    : Agung Nugroho, S.Kom., M.Kom.
          </div>
          <?php require('footer.php'); ?>
 
+![lab9 header](https://github.com/nadyakhorun/Lab9Web/assets/115801823/2bae2f2d-818f-4f87-ab42-d3510e703758)
+
 # Pertanyaan dan Tugas
 
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
+# Sekian dan Terima Kasih
