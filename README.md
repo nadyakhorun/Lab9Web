@@ -153,6 +153,8 @@ a. header.php
             </ul>
             </nav>
 
+![Screenshot 2023-12-05 105232](https://github.com/nadyakhorun/Lab9Web/assets/115801823/98f2f9d5-cdbb-4052-9dc2-dcff1e17c0a0)
+
 b. tambah.php
 
             <?php require('header.php'); ?>
@@ -280,6 +282,8 @@ b. tambah.php
             </html>
             
             <?php require('footer.php'); ?>
+
+![Screenshot 2023-12-05 112724](https://github.com/nadyakhorun/Lab9Web/assets/115801823/f4068f10-1f7b-48f7-89cb-271bed3c4046)
 
 c. ubah.php
 
@@ -436,5 +440,7 @@ c. ubah.php
          </html>
          
          <?php require('footer.php'); ?>
+
+![Screenshot 2023-12-05 112855](https://github.com/nadyakhorun/Lab9Web/assets/115801823/92dab769-d340-43a5-b583-1f30e9570df0)
 
 # Sekian dan Terima Kasih
